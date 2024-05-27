@@ -1,1 +1,2 @@
-# Tern Semi Automated testing
+# Tern Semi-Automated testing
+## smd
