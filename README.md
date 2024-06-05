@@ -1,9 +1,7 @@
 # Tern Semi-Automated testing
 
-
 ## Prototype 
-https://github.com/salmanhaider93/Tern-Semi-Automated-testing-/assets/36808172/ef61ab5e-0d48-47c0-9eff-321f2ca971b3
-
+https://github.com/salmanhaider93/Tern-Semi-Automated-testing-/assets/36808172/463623fb-34d6-48f2-baa0-4247b6d222ea
 
 ![image](https://github.com/salmanhaider93/Tern-Semi-Automated-testing-/assets/36808172/da3a790a-26ea-4dd6-8d72-0307e1fe46da)
 
