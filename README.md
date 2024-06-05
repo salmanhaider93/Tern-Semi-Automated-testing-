@@ -5,6 +5,9 @@
 https://github.com/salmanhaider93/Tern-Semi-Automated-testing-/assets/36808172/ef61ab5e-0d48-47c0-9eff-321f2ca971b3
 
 
+![image](https://github.com/salmanhaider93/Tern-Semi-Automated-testing-/assets/36808172/da3a790a-26ea-4dd6-8d72-0307e1fe46da)
+
+
 ## Mechanical Design 
 ![image](https://github.com/salmanhaider93/Tern-Semi-Automated-testing-/assets/36808172/6da48f55-1c67-4502-a2af-96c920c3889c)
 
